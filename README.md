@@ -18,7 +18,7 @@ Depending on the wiring path, usually A x3 and B x1 are printed.
 <img src="img/winglet_ab.jpg" width="60%">
 
 # BOM
-- M3 x 20mm or 25mm BHCS x4
+- M3 x 20mm - 25mm (23mm is best) BHCS x4
 - M3 x 8mm BHCS x2
 - M3 Insert Nut x4
 - M3 Roll-in T-nut x1
