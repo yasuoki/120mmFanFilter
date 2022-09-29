@@ -1,4 +1,4 @@
-# 120mm Fan Filter for VORON TRIDENT
+# 120mm Fan Filter for VORON TRIDENT 300mm build
 
 <img src="img/pic1.jpg" width="70%">
 <img src="img/pic2.jpg" width="70%">
