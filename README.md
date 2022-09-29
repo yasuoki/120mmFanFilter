@@ -21,7 +21,7 @@ Depending on the wiring path, usually A x3 and B x1 are printed.
 - M3 x 20mm - 25mm (23mm is best) BHCS x4
 - M3 x 8mm BHCS x2
 - M3 Insert Nut x4
-- M3 Roll-in T-nut x1
+- M3 Roll-in T-nut x2
 - 120mm x 15mm Fan x1 (Thermalright TL-C12015 or, 2000rpm or higher)
 - 150mm x 150mm x 15mm Filter x1 (Sharp IZ-FGCF15)
 - 130mm x 130mm x 10mm Activated Carbon Sponge Filter x1 (Universal)
