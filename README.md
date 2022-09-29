@@ -13,7 +13,7 @@
 If the bed has weak adhesion, print WingletA_S.stl and WingetB_S.stl with built-in anti-tip supports.  
 <img src="img/winglet_s.jpg" width="60%">
 - Winglet B has a notch for fan wiring.  
-Depending on the wiring path, usually three A's and one B are printed.  
+Depending on the wiring path, usually A x3 and B x1 are printed.  
 <img src="img/winglet_ab.jpg" width="60%">
 
 # BOM
