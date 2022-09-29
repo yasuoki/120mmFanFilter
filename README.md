@@ -26,5 +26,7 @@ Depending on the wiring path, usually three A's and one B are printed.
 - 130mm x 130mm x 10mm Activated Carbon Sponge Filter x1 (Universal)
 
 option
-- Mini360 DC-DC Converter x1
+- Mini360 DC-DC Converter x1  
+Used to adjust fan speed.
+Although it is outside the rating, you can step down the 24v and run the fan at about 16v to increase airflow. (Not guaranteed)
 
