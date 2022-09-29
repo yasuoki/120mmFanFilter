@@ -29,5 +29,6 @@ Depending on the wiring path, usually A x3 and B x1 are printed.
 option
 - Mini360 DC-DC Converter x1  
 Used to adjust fan speed.
-Although it is outside the rating, you can step down the 24v and run the fan at about 16v to increase airflow. (Not guaranteed)
+Although it is outside the rating, you can step down the 24v and run the fan at about 16v to increase airflow.
+When using TL-C12015, a voltage of about 16V is required because 12V is not enough for wind pressure. (Not guaranteed)
 
