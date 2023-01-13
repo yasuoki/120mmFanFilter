@@ -4,9 +4,6 @@
 <img src="img/pic2.jpg" width="70%">
 <img src="img/pic3.jpg" width="70%">
 
-# Caution.
-Printing tall and wide objects may hit the tool head.
-
 # Assemble
 <img src="img/assemble.jpg" width="70%">
 
